@@ -69,4 +69,4 @@ This project is open source and free to use under the MIT License.
 
 Contact
 
-Created by [Your Name] – feel free to open issues or submit pull requests!
+Created by jake-armstrong07 – feel free to open issues or submit pull requests!
