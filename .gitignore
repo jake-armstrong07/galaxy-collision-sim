@@ -1,0 +1,38 @@
+# === Python bytecode & cache ===
+__pycache__/
+*.py[cod]
+*.pyo
+
+# === Virtual environments ===
+.venv/
+venv/
+env/
+ENV/
+
+# === Output files from simulations ===
+*.npz
+*.mp4
+*.gif
+
+# === Logs and system junk ===
+*.log
+.DS_Store
+Thumbs.db
+
+# === IDEs ===
+.vscode/
+.idea/
+
+# === Jupyter notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === Test artifacts ===
+*.coverage
+coverage.xml
+*.pytest_cache/
+.cache/
+htmlcov/
+
+# === Environment or config overrides ===
+.env
+*.local
